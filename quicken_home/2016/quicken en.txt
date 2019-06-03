@@ -1,0 +1,2 @@
+checking account --> 活期存款
+savings account --> 存款帐户
